@@ -70,10 +70,15 @@ python3 -m venv venv
 pip install -r requirements.txt
 streamlit run app.py
 
-Goal
+
+---
+
+## Goal
 
 To help banks identify customers likely to churn and take proactive retention measures.
 
-Author
+---
 
-Amos Mungai
+## Author
+
+**Amos Mungai**
