@@ -44,21 +44,6 @@ The model uses the following features:
 
 ---
 
-## Project Structure
-
-BankChurnPrediction/
-│
-├── app.py # Streamlit app
-├── models/
-│ └── my_ann_model.keras # Saved ANN model
-├── scaler/
-│ └── scaler.pkl # Scaler used during training
-├── requirements.txt # Python dependencies
-└── README.md
-
-
----
-
 ## 📁 Project Structure
 ```
 BankChurnPrediction/
